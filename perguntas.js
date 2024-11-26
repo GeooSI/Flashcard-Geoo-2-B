@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação'
+    'Divertidamente',
+    'Quais são as 5 novas emoções?',
+    'Inveja, Vergonha, Tédio, Medo e Ansiedade.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual é a capital da França?',
-    'A capital da França é Paris'
+    'Divertidamente',
+    'Qual é o nome da personagem a qual as emoções controlam?',
+    'O nome da personagem é Riley.'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é a raiz quadrada de 144?',
-    'A raiz quadrada de 144 é 12'
+    'Divertidamente',
+    'Qual é o nome do amigo imaginário de Riley?',
+    'Bing Bong.'
 )
